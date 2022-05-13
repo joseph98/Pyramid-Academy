@@ -1,3 +1,5 @@
+package java;
+
 import java.text.MessageFormat;
 import java.util.Scanner;
 import java.util.Random;
